@@ -31,5 +31,5 @@ It’s designed for beginners who want to learn how web servers handle and displ
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/yourusername/error-page-demo.git
+git clone https://github.com/yourusername/flasker.git
 cd flasker
